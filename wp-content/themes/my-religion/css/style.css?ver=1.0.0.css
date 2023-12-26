@@ -152,6 +152,16 @@ body {
 div {
   text-align: left;
 }
+.theme-color{
+  color:#2E69AD;
+}
+.theme-background-color{
+  background-color: #2E69AD;
+}
+
+.donate-button:hover {
+background-color: red;
+}
 p {
   padding: 0 0 20px;
   margin: 0;
@@ -265,6 +275,7 @@ option {
   max-width: 100%;
   border-width: 1px;
   border-style: solid;
+  border-radius: 8px;
 }
 input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]) {
   height: 42px;
