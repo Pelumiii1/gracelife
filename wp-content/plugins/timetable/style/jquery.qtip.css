@@ -583,7 +583,7 @@
 	.qtip .qtip-tip canvas{ top: 0; left: 0; }
 
 	.qtip .qtip-tip .qtip-vml{
-		behavior: url(jquery.qtip.css%3Fver=6.4.2.css);
+		behavior: url(jquery.qtip.css);
 		display: inline-block;
 		visibility: visible;
 	}
